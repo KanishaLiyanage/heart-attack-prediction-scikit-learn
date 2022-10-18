@@ -135,6 +135,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 GitHub - [@KanishaLiyanage](https://github.com/KanishaLiyanage)
+LinkedIn - [@kanisha-liyanage](https://www.linkedin.com/in/kanisha-liyanage)
+Twitter - [@DilumKanisha](https://mobile.twitter.com/DilumKanisha)
 
 Project Link: [https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs](https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs.git)
 
