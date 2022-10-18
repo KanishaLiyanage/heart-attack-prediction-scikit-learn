@@ -96,7 +96,7 @@ This Website is built with below technologies :point_down:
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![MongoDB][MongoDB]]
+* ![MongoDB][MongoDB]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
