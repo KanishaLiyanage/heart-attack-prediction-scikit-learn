@@ -38,14 +38,13 @@
   <p align="center">
     This Blog Website is made for my university assignment. scroll down for more info.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://gamedudes.herokuapp.com/"><strong>Explore the Blog »</strong></a>
+    <br />
+    or
+    <br />
+    <a href="https://gamedudes-blog-website.onrender.com"><strong>Explore the Blog »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
