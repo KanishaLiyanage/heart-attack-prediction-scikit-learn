@@ -104,18 +104,20 @@ OR
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Create a database in MongoDB Atlas at [https://account.mongodb.com/account/login](https://account.mongodb.com/account/login) to get a cloud database service
+   or you can create MongoDB locally.
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs.git
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Create `.env` file in root directory.
+5. Enter your API in `.env`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const ATLAS_URL = 'ENTER YOUR MongoDB database url';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
