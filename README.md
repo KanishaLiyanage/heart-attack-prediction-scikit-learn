@@ -102,7 +102,7 @@ OR
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below instructions are how to setup and run this website lacally. Read this instructions very carefully!._
 
 1. Create a database in MongoDB Atlas at [https://account.mongodb.com/account/login](https://account.mongodb.com/account/login) to get a cloud database service
    or you can create MongoDB locally.
@@ -115,7 +115,7 @@ _Below is an example of how you can instruct your audience on installing and set
    npm install
    ```
 4. Create `.env` file in root directory.
-5. Enter your API in `.env`
+5. Enter your MongoDB Atlas database url in `.env`
    ```js
    const ATLAS_URL = 'ENTER YOUR MongoDB database url';
    ```
@@ -134,9 +134,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+GitHub - [@KanishaLiyanage](https://github.com/KanishaLiyanage)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs](https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
