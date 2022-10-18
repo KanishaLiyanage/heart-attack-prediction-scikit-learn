@@ -40,7 +40,7 @@
     <br />
     <a href="https://gamedudes.herokuapp.com/"><strong>Explore the Blog »</strong></a>
     <br />
-    or
+    if above link is not working, use this link 👇
     <br />
     <a href="https://gamedudes-blog-website.onrender.com"><strong>Explore the Blog »</strong></a>
     <br />
