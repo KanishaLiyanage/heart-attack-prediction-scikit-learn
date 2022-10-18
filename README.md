@@ -94,7 +94,6 @@ This is how to use the website and how to install packages locally.
   ```sh
   npm install
   ```
-<br />
 OR
 * npm
   ```sh
