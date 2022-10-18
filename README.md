@@ -92,7 +92,7 @@ To get a local copy up and running follow these simple example steps.
 This is how to use the website and how to install packages locally.
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 <br />
 OR
