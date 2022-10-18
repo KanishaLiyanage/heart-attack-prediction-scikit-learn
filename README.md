@@ -14,7 +14,7 @@
     <br />
     <a href="https://gamedudes.herokuapp.com/"><strong>Explore the Blog »</strong></a>
     <br />
-    if above link is not working, use this link :point_down:
+    If the above link is not working, use this link :point_down:
     <br />
     <a href="https://gamedudes-blog-website.onrender.com"><strong>Explore the Blog »</strong></a>
     <br />
@@ -59,15 +59,18 @@ This Blog website is only for gamers who are like to post upcoming games, share 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Built With
 
 This Website is built with below technologies :point_down:
 
+* ![Node.js][Node.js]
+* ![Express.js][Express.js]
 * ![MongoDB][MongoDB]
+* ![HTML][HTML]
+* ![CSS][CSS]
+* ![JavaScript][JavaScript]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -137,4 +140,7 @@ Project Link: [https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs](
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: images/screenshot.png
 [MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-
+[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
