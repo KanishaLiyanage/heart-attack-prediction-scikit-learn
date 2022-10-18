@@ -29,10 +29,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <p>GameDudes Blog Website</P>
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
-  </a>
+  
+  <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+
 
   <h3 align="center">Best-README-Template</h3>
 
