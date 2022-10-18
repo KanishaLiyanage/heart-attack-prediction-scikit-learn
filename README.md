@@ -40,7 +40,7 @@
     <br />
     <a href="https://gamedudes.herokuapp.com/"><strong>Explore the Blog »</strong></a>
     <br />
-    if above link is not working, use this link 👇
+    if above link is not working, use this link :point_down:
     <br />
     <a href="https://gamedudes-blog-website.onrender.com"><strong>Explore the Blog »</strong></a>
     <br />
@@ -92,7 +92,7 @@ This Blog website is only for gamers who are like to post upcoming games, share 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This Website is built with below technologies :point_down:
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
