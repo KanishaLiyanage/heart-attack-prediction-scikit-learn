@@ -40,12 +40,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -68,14 +64,7 @@ This Blog website is only for gamers who are like to post upcoming games, share 
 
 This Website is built with below technologies :point_down:
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
 * ![MongoDB][MongoDB]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,7 +130,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Project Link: [https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs](https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
