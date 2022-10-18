@@ -33,10 +33,10 @@
   <img src="images/logo.jpg" alt="Logo" width="80" height="80">
 
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">GameDudes Blog Website</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This Blog Website is made for my university assignment. scroll down for more info.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
